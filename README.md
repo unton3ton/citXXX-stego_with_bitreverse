@@ -7,24 +7,17 @@
 
 *[Стеганография + Python](https://telegra.ph/Steganografiya--Python-12-08)
 
-
 *[Изменение размера изображения в пикселях онлайн](https://www.imgonline.com.ua/resize-image.php)
-
 
 *[Голографические свойства бит-реверсивной перестановки](https://habr.com/ru/articles/155471/)
 
-
 *[Bit reversal permutation POC](https://github.com/niazlv/Bit-reversal-permutation/tree/main)
-
 
 *[Функция getsize() модуля os.path в Python](https://docs-python.ru/standart-library/modul-os-path-python/funktsija-getsize-modulja-os-path/)
 
-
 *[Меняем размер изображения в Python Pillow с обрезанием и изменением ширины и высоты](https://fixmypc.ru/post/izmenenie-razmera-kartinki-v-python-s-pillow-pil/)
 
-
 *[Drawing. Simple image editor for Linux](https://maoschanz.github.io/drawing/)
-
 
 *[Image Steganography using OpenCV in Python](https://www.geeksforgeeks.org/image-steganography-using-opencv-in-python/)
 
