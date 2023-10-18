@@ -23,3 +23,11 @@
 
 
 *[Chinese Social Media Sites Are Quietly Putting Digital Fingerprints on Screenshots](https://www.vice.com/en/article/qjk3vm/chinese-social-media-watermarks-zhihu-douban)
+
+[Знакомьтесь: Хеш-стеганография. Очень медленная, но совершенно секретная](https://habr.com/ru/articles/272935/)
+
+[vkhs - Отправка сообщений с использованием стеганографии и vkapi (proof of concept)](https://github.com/RomaLash/vkhs_POC)
+
+[Хеш-стеганография в dataset-ах. На этот раз быстрая](https://habr.com/ru/articles/339432/)
+
+[Csv Hash Steganography](https://github.com/PavelMSTU/CHS)
