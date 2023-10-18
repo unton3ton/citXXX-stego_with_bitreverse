@@ -1,9 +1,15 @@
-> $ python encrypt_stegotest.py  
+> $ python encrypt_stegotest.py    
 you message:  ÙPÉtÚZTÉ
 
-> $ python compare_2images.py  
-1.jpg - 1.png =  0.0
-1.jpg - new.png =  10543.517291445014
+> $ python compare_2images.py   
+1.jpg - 1.png =  0.0  
+1.jpg - new.png =  10543.517291445014  
+
+До:
+![](https://raw.githubusercontent.com/unton3ton/citXXX-stego_with_bitreverse/main/test2pngTomp4Topng/before.png)
+
+После:
+![](https://raw.githubusercontent.com/unton3ton/citXXX-stego_with_bitreverse/main/test2pngTomp4Topng/result.png)
 
 
 При конвертировании из png в mp4 и обратно корректно восстановить скрытое сообщение не удалось.
