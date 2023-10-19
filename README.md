@@ -1,8 +1,9 @@
+# Смотри тесты  
 ![](https://raw.githubusercontent.com/unton3ton/citXXX-stego_with_bitreverse/main/1.png) 
 <!---
 Иди уже посуду помой!
 -->
-
+![](https://raw.githubusercontent.com/unton3ton/citXXX-stego_with_bitreverse/main/test4imgInimg/1_re21_from_corupt.png)
 ## Sources
 
 [Стеганография + Python](https://telegra.ph/Steganografiya--Python-12-08)
